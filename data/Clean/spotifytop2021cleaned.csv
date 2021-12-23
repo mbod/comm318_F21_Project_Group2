@@ -1,0 +1,51 @@
+,rank,name,album,artist,release_date,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,explicit,duration_sec
+0,1,drivers license,SOUR,Olivia Rodrigo,2021-05-21,0.561,0.768,0.431,1.42e-05,0.106,-8.81,0.0578,143.875,0.137,True,242.013
+1,2,good 4 u,SOUR,Olivia Rodrigo,2021-05-21,0.563,0.335,0.664,0.0,0.0849,-5.044,0.154,166.928,0.688,True,178.146
+2,3,Kiss Me More (feat. SZA),Planet Her,Doja Cat,2021-06-25,0.764,0.259,0.705,8.92e-05,0.12,-3.463,0.0284,110.97,0.781,True,208.666
+3,4,Heat Waves,Dreamland (+ Bonus Levels),Glass Animals,2020-08-06,0.761,0.44,0.525,6.7e-06,0.0921,-6.9,0.0944,80.87,0.531,False,238.805
+4,5,Levitating (feat. DaBaby),Future Nostalgia,Dua Lipa,2020-03-27,0.702,0.00883,0.825,0.0,0.0674,-3.787,0.0601,102.977,0.915,False,203.064
+5,6,MONTERO (Call Me By Your Name),MONTERO,Lil Nas X,2021-09-17,0.593,0.293,0.503,0.0,0.405,-6.725,0.22,178.781,0.71,True,137.704
+6,7,STAY (with Justin Bieber),F*CK LOVE 3: OVER YOU,The Kid LAROI,2021-07-23,0.591,0.0383,0.764,0.0,0.103,-5.484,0.0483,169.928,0.478,True,141.805
+7,8,RAPSTAR,Hall of Fame,Polo G,2021-06-11,0.789,0.41,0.536,0.0,0.129,-6.862,0.242,81.039,0.437,True,165.925
+8,9,deja vu,SOUR,Olivia Rodrigo,2021-05-21,0.442,0.584,0.612,5.7e-06,0.37,-7.222,0.112,180.917,0.178,True,215.506
+9,10,INDUSTRY BABY (feat. Jack Harlow),MONTERO,Lil Nas X,2021-09-17,0.741,0.0221,0.691,0.0,0.0476,-7.395,0.0672,150.087,0.892,True,212.352
+10,11,Peaches (feat. Daniel Caesar & Giveon),Justice,Justin Bieber,2021-03-19,0.677,0.321,0.696,0.0,0.42,-6.181,0.119,90.03,0.464,True,198.081
+11,12,Good Days,Good Days,SZA,2020-12-25,0.436,0.499,0.655,8.1e-06,0.688,-8.37,0.0583,121.002,0.412,True,279.204
+12,13,Wants and Needs (feat. Lil Baby),Scary Hours 2,Drake,2021-03-05,0.578,0.0618,0.449,2.17e-06,0.119,-6.349,0.286,136.006,0.1,True,192.956
+13,14,Blinding Lights,After Hours,The Weeknd,2020-03-20,0.514,0.00146,0.73,9.54e-05,0.0897,-5.934,0.0598,171.005,0.334,False,200.04
+14,15,Astronaut In The Ocean,Astronomical,Masked Wolf,2021-09-10,0.778,0.175,0.695,0.0,0.15,-6.865,0.0913,149.996,0.472,True,132.78
+15,16,Streets,Hot Pink,Doja Cat,2019-11-07,0.749,0.21,0.463,0.0382,0.338,-8.433,0.0842,90.035,0.189,True,226.986
+16,17,Leave The Door Open,An Evening With Silk Sonic,Bruno Mars,2021-11-11,0.586,0.182,0.616,0.0,0.0927,-7.964,0.0324,148.088,0.719,False,242.096
+17,18,traitor,SOUR,Olivia Rodrigo,2021-05-21,0.38,0.691,0.339,0.0,0.12,-7.885,0.0338,100.607,0.0849,False,229.226
+18,19,Up,Up (Instrumental),Cardi B,2021-02-04,0.868,0.0012,0.795,0.0193,0.0461,-6.044,0.269,166.0,0.819,True,156.944
+19,20,Heartbreak Anniversary,TAKE TIME,Giveon,2020-03-27,0.449,0.524,0.465,1.02e-06,0.303,-8.964,0.0791,89.087,0.543,False,198.37
+20,21,Calling My Phone,Destined 2 Win,Lil Tjay,2021-04-02,0.907,0.451,0.393,1.35e-06,0.135,-7.636,0.0539,104.949,0.202,True,205.458
+21,22,Mood (feat. iann dior),El Dorado,24kGoldn,2021-03-26,0.701,0.174,0.716,0.0,0.324,-3.671,0.0361,91.007,0.732,True,140.533
+22,23,Save Your Tears,After Hours,The Weeknd,2020-03-20,0.68,0.0212,0.826,1.24e-05,0.543,-5.487,0.0309,118.051,0.644,True,215.626
+23,24,telepatía,Sin Miedo (del Amor y Otros Demonios) ∞,Kali Uchis,2020-12-04,0.653,0.112,0.524,0.0,0.203,-9.016,0.0502,83.97,0.553,False,160.191
+24,25,DÁKITI,EL ÚLTIMO TOUR DEL MUNDO,Bad Bunny,2020-11-27,0.731,0.401,0.573,5.22e-05,0.113,-10.059,0.0544,109.928,0.145,True,205.09
+25,26,Sweater Weather,I Love You.,The Neighbourhood,2013-04-19,0.612,0.0495,0.807,0.0177,0.101,-2.81,0.0336,124.053,0.398,False,240.4
+26,27,Best Friend (feat. Doja Cat),Best Friend (feat. Doja Cat) [Remix EP] [Extended Edition],Saweetie,2021-04-23,0.84,0.00302,0.766,3.61e-06,0.0684,-4.12,0.136,94.018,0.402,True,155.883
+27,28,Need to Know,Planet Her,Doja Cat,2021-06-25,0.664,0.304,0.609,0.0,0.0926,-6.509,0.0707,130.041,0.194,True,210.56
+28,29,WITHOUT YOU,F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,0.662,0.213,0.413,0.0,0.134,-7.357,0.0299,93.005,0.467,True,161.384
+29,30,my ex's best friend (with blackbear),Tickets To My Downfall,Machine Gun Kelly,2020-09-25,0.731,0.00473,0.675,0.0,0.141,-5.134,0.0434,124.939,0.298,True,139.46
+30,31,"Lemonade (feat. Gunna, Don Toliver & NAV)",B4 The Storm,Internet Money,2020-08-28,0.8,0.25,0.658,0.0,0.111,-6.142,0.079,140.042,0.462,True,195.428
+31,32,Martin & Gina,THE GOAT,Polo G,2020-05-15,0.832,0.345,0.534,0.0,0.165,-7.813,0.253,93.924,0.116,True,132.832
+32,33,Lucid Dreams,Goodbye & Good Riddance,Juice WRLD,2018-12-10,0.511,0.349,0.566,0.0,0.34,-7.23,0.2,83.903,0.218,True,239.835
+33,34,All Girls Are The Same,Goodbye & Good Riddance,Juice WRLD,2018-12-10,0.671,0.0769,0.529,0.000335,0.0856,-7.226,0.307,161.989,0.203,True,165.819
+34,35,Back In Blood (feat. Lil Durk),Shiesty Season,Pooh Shiesty,2021-02-05,0.759,0.151,0.538,0.0,0.126,-8.256,0.384,146.933,0.831,True,184.489
+35,36,For The Night (feat. Lil Baby & DaBaby),Shoot For The Stars Aim For The Moon,Pop Smoke,2020-07-03,0.823,0.114,0.586,0.0,0.193,-6.606,0.2,125.971,0.347,True,190.476
+36,37,Sunflower - Spider-Man: Into the Spider-Verse,Hollywood's Bleeding,Post Malone,2019-09-06,0.755,0.533,0.522,0.0,0.0685,-4.368,0.0575,89.96,0.925,False,157.56
+37,38,favorite crime,SOUR,Olivia Rodrigo,2021-05-21,0.369,0.866,0.272,0.0,0.147,-10.497,0.0364,172.929,0.218,False,152.666
+38,39,34+35,Positions,Ariana Grande,2020-10-30,0.83,0.237,0.585,0.0,0.248,-6.476,0.094,109.978,0.485,True,173.71
+39,40,Bad Habits,=,Ed Sheeran,2021-10-29,0.807,0.0451,0.893,2.79e-05,0.366,-3.745,0.0347,126.011,0.537,False,230.746
+40,41,Circles,Hollywood's Bleeding,Post Malone,2019-09-06,0.695,0.192,0.762,0.00244,0.0863,-3.497,0.0395,120.042,0.553,False,215.28
+41,42,What You Know Bout Love,Shoot For The Stars Aim For The Moon,Pop Smoke,2020-07-03,0.709,0.65,0.548,1.59e-06,0.133,-8.493,0.353,83.995,0.543,True,160.0
+42,43,No Role Modelz,2014 Forest Hills Drive,J. Cole,2014-12-09,0.692,0.301,0.521,0.0,0.0565,-8.465,0.33,100.45,0.463,True,292.986
+43,44,Laugh Now Cry Later (feat. Lil Durk),Laugh Now Cry Later (feat. Lil Durk),Drake,2020-08-14,0.761,0.244,0.518,3.47e-05,0.107,-8.871,0.134,133.976,0.522,True,261.492
+44,45,Wishing Well,Legends Never Die,Juice WRLD,2020-07-10,0.65,0.00336,0.613,0.0,0.267,-6.13,0.128,149.972,0.0804,True,194.621
+45,46,positions,Positions,Ariana Grande,2020-10-30,0.737,0.468,0.802,0.0,0.0931,-4.771,0.0878,144.015,0.682,True,172.324
+46,47,ROCKSTAR (feat. Roddy Ricch),BLAME IT ON BABY,DaBaby,2020-04-17,0.746,0.247,0.69,0.0,0.101,-7.956,0.164,89.977,0.497,True,181.733
+47,48,Come & Go (with Marshmello),Legends Never Die,Juice WRLD,2020-07-10,0.625,0.0172,0.814,0.0,0.158,-5.181,0.0657,144.991,0.535,True,205.484
+48,49,WAP (feat. Megan Thee Stallion),WAP (feat. Megan Thee Stallion),Cardi B,2020-08-07,0.935,0.0194,0.454,0.0,0.0824,-7.509,0.375,133.073,0.357,True,187.541
+49,50,Save Your Tears (with Ariana Grande) (Remix),Save Your Tears (Remix),The Weeknd,2021-04-23,0.65,0.0215,0.825,2.44e-05,0.0936,-4.645,0.0325,118.091,0.593,False,191.013

@@ -1,0 +1,101 @@
+,Rank,name,album,artist,release_date,duration_ms,popularity,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,valence,explicit,duration_sec
+0,1,Levitating,Future Nostalgia,Dua Lipa,2020-03-27,203807,87,0.695,0.0561,0.884,0.0,0.213,-2.278,0.0753,103.014,4,0.914,False,203.807
+1,2,Save Your Tears,After Hours,The Weeknd,2020-03-20,215626,91,0.68,0.0212,0.826,1.24e-05,0.543,-5.487,0.0309,118.051,4,0.644,True,215.626
+2,3,Blinding Lights,After Hours,The Weeknd,2020-03-20,200040,94,0.514,0.00146,0.73,9.54e-05,0.0897,-5.934,0.0598,171.005,4,0.334,False,200.04
+3,4,Mood (feat. iann dior),El Dorado,24kGoldn,2021-03-26,140533,90,0.701,0.174,0.716,0.0,0.324,-3.671,0.0361,91.007,4,0.732,True,140.533
+4,5,good 4 u,good 4 u,Olivia Rodrigo,2021-05-14,178147,40,0.556,0.3,0.661,0.0,0.101,-5.052,0.204,168.56,4,0.668,True,178.147
+5,6,Kiss Me More (feat. SZA),Kiss Me More (feat. SZA),Doja Cat,2021-04-09,208866,92,0.762,0.235,0.701,0.000158,0.123,-3.541,0.0286,110.968,4,0.742,True,208.866
+6,7,Leave The Door Open,Leave The Door Open,Bruno Mars,2021-03-05,242096,89,0.586,0.182,0.616,0.0,0.0927,-7.964,0.0324,148.088,4,0.719,False,242.096
+7,8,drivers license,drivers license,Olivia Rodrigo,2021-01-08,242013,37,0.585,0.721,0.436,1.31e-05,0.105,-8.761,0.0601,143.874,4,0.132,True,242.013
+8,9,MONTERO (Call Me By Your Name),MONTERO (Call Me By Your Name),Lil Nas X,2021-03-31,137875,89,0.61,0.297,0.508,0.0,0.384,-6.682,0.152,178.818,4,0.758,True,137.875
+9,10,Peaches (feat. Daniel Caesar & Giveon),Justice,Justin Bieber,2021-03-19,198081,92,0.677,0.321,0.696,0.0,0.42,-6.181,0.119,90.03,4,0.464,True,198.081
+10,11,Butter,Butter,BTS,2021-05-21,164441,33,0.759,0.00323,0.459,0.0,0.0906,-5.187,0.0948,109.997,4,0.695,False,164.441
+11,12,STAY (with Justin Bieber),STAY (with Justin Bieber),The Kid LAROI,2021-07-09,141805,99,0.591,0.0383,0.764,0.0,0.103,-5.484,0.0483,169.928,4,0.478,True,141.805
+12,13,deja vu,deja vu,Olivia Rodrigo,2021-04-01,215507,35,0.439,0.593,0.61,1.07e-05,0.341,-7.236,0.116,181.088,4,0.172,True,215.507
+13,14,positions,Positions,Ariana Grande,2020-10-30,172324,89,0.737,0.468,0.802,0.0,0.0931,-4.771,0.0878,144.015,4,0.682,True,172.324
+14,15,Bad Habits,Bad Habits,Ed Sheeran,2021-06-25,231041,86,0.808,0.0469,0.897,3.14e-05,0.364,-3.712,0.0348,126.026,4,0.591,False,231.041
+15,16,Heat Waves,Dreamland (+ Bonus Levels),Glass Animals,2020-08-06,238805,93,0.761,0.44,0.525,6.7e-06,0.0921,-6.9,0.0944,80.87,4,0.531,False,238.805
+16,17,WITHOUT YOU,F*CK LOVE (SAVAGE),The Kid LAROI,2020-11-06,161384,87,0.662,0.213,0.413,0.0,0.134,-7.357,0.0299,93.005,4,0.467,True,161.384
+17,18,Forever After All,What You See Ain't Always What You Get (Deluxe Edition),Luke Combs,2020-10-23,232533,81,0.487,0.191,0.65,0.0,0.0933,-5.195,0.0253,151.964,4,0.456,False,232.533
+18,19,Go Crazy,Slime & B,Chris Brown,2020-05-08,176960,82,0.755,0.316,0.578,0.0,0.25,-8.932,0.145,94.148,4,0.581,True,176.96
+19,20,Astronaut In The Ocean,Astronaut In The Ocean,Masked Wolf,2021-01-06,132780,87,0.778,0.175,0.695,0.0,0.15,-6.865,0.0913,149.996,4,0.472,True,132.78
+20,21,34+35,Positions,Ariana Grande,2020-10-30,173710,87,0.83,0.237,0.585,0.0,0.248,-6.476,0.094,109.978,4,0.485,True,173.71
+21,22,What You Know Bout Love,Shoot For The Stars Aim For The Moon,Pop Smoke,2020-07-03,160000,86,0.709,0.65,0.548,1.59e-06,0.133,-8.493,0.353,83.995,4,0.543,True,160.0
+22,23,my ex's best friend (with blackbear),Tickets To My Downfall,Machine Gun Kelly,2020-09-25,139460,85,0.731,0.00473,0.675,0.0,0.141,-5.134,0.0434,124.939,4,0.298,True,139.46
+23,24,INDUSTRY BABY (feat. Jack Harlow),INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,2021-07-23,212000,98,0.736,0.0203,0.704,0.0,0.0501,-7.409,0.0615,149.995,4,0.894,True,212.0
+24,25,Therefore I Am,Therefore I Am,Billie Eilish,2020-11-12,174321,82,0.889,0.218,0.34,0.13,0.055,-7.773,0.0697,94.009,4,0.716,False,174.321
+25,26,Up,Up,Cardi B,2021-02-05,156944,81,0.868,0.0012,0.795,0.0193,0.0461,-6.044,0.269,166.0,4,0.819,True,156.944
+26,27,Fancy Like,Country Stuff,Walker Hayes,2021-06-04,161853,84,0.649,0.114,0.76,0.0,0.317,-6.487,0.0574,80.018,4,0.843,False,161.853
+27,28,DÁKITI,DÁKITI,Bad Bunny,2020-10-30,205090,87,0.731,0.401,0.573,5.22e-05,0.113,-10.059,0.0544,109.928,4,0.145,True,205.09
+28,29,Best Friend (feat. Doja Cat),Best Friend (feat. Doja Cat),Saweetie,2021-01-07,155883,82,0.84,0.00302,0.766,3.61e-06,0.0684,-4.12,0.136,94.018,4,0.402,True,155.883
+29,30,RAPSTAR,RAPSTAR,Polo G,2021-04-09,165925,85,0.789,0.41,0.536,0.0,0.129,-6.862,0.242,81.039,4,0.437,True,165.925
+30,31,Heartbreak Anniversary,TAKE TIME,Giveon,2020-03-27,198370,88,0.449,0.524,0.465,1.02e-06,0.303,-8.964,0.0791,89.087,3,0.543,False,198.37
+31,32,For The Night (feat. Lil Baby & DaBaby),Shoot For The Stars Aim For The Moon,Pop Smoke,2020-07-03,190476,86,0.823,0.114,0.586,0.0,0.193,-6.606,0.2,125.971,4,0.347,True,190.476
+32,33,Calling My Phone,Destined 2 Win,Lil Tjay,2021-04-02,205458,86,0.907,0.451,0.393,1.35e-06,0.135,-7.636,0.0539,104.949,4,0.202,True,205.458
+33,34,Beautiful Mistakes (feat. Megan Thee Stallion),Beautiful Mistakes (feat. Megan Thee Stallion),Maroon 5,2021-03-03,227395,38,0.713,0.0377,0.676,0.0,0.154,-5.483,0.027,99.048,4,0.721,False,227.395
+34,35,Holy (feat. Chance The Rapper),Holy,Justin Bieber,2020-09-18,212093,81,0.673,0.196,0.704,0.0,0.0898,-8.056,0.36,86.919,4,0.372,False,212.093
+35,36,On Me,On Me,Lil Baby,2020-12-04,135959,79,0.856,0.00327,0.564,0.0,0.134,-6.295,0.392,77.972,4,0.483,True,135.959
+36,37,you broke me first,you broke me first,Tate McRae,2020-04-17,169265,89,0.667,0.785,0.373,0.0,0.0906,-9.389,0.05,124.148,4,0.0823,False,169.265
+37,38,traitor,SOUR,Olivia Rodrigo,2021-05-21,229226,94,0.38,0.691,0.339,0.0,0.12,-7.885,0.0338,100.607,4,0.0849,False,229.226
+38,39,Back In Blood (feat. Lil Durk),Back In Blood (feat. Lil Durk),Pooh Shiesty,2020-11-06,184489,77,0.759,0.151,0.538,0.0,0.126,-8.256,0.384,146.933,4,0.831,True,184.489
+39,40,I Hope,Goldmine,Gabby Barrett,2020-06-19,210772,79,0.466,0.0951,0.536,0.0,0.114,-6.227,0.0429,75.998,4,0.377,False,210.772
+40,41,Dynamite,BE,BTS,2020-11-20,199053,87,0.746,0.0112,0.765,0.0,0.0936,-4.41,0.0993,114.044,4,0.737,False,199.053
+41,42,Wockesha,A Gangsta’s Pain,Moneybagg Yo,2021-04-23,180930,76,0.582,0.129,0.537,0.0,0.0749,-9.229,0.619,82.103,4,0.771,True,180.93
+42,43,You Right - Extended,Planet Her (Deluxe),Doja Cat,2021-06-27,246040,72,0.837,0.0158,0.567,0.00139,0.118,-6.709,0.0649,129.001,4,0.502,True,246.04
+43,44,Beat Box,Beat Box,SpotemGottem,2020-04-20,110497,64,0.762,0.195,0.542,0.0,0.125,-6.251,0.35,159.954,4,0.201,True,110.497
+44,45,Laugh Now Cry Later (feat. Lil Durk),Laugh Now Cry Later (feat. Lil Durk),Drake,2020-08-14,261492,85,0.761,0.244,0.518,3.47e-05,0.107,-8.871,0.134,133.976,4,0.522,True,261.492
+45,46,Need to Know,Planet Her,Doja Cat,2021-06-25,210560,94,0.664,0.304,0.609,0.0,0.0926,-6.509,0.0707,130.041,4,0.194,True,210.56
+46,47,Wants and Needs (feat. Lil Baby),Scary Hours 2,Drake,2021-03-05,192956,87,0.578,0.0618,0.449,2.17e-06,0.119,-6.349,0.286,136.006,4,0.1,True,192.956
+47,48,Way 2 Sexy (with Future & Young Thug),Certified Lover Boy,Drake,2021-09-03,257604,91,0.803,0.000619,0.597,4.5e-06,0.323,-6.035,0.141,136.008,4,0.331,True,257.604
+48,49,telepatía,Sin Miedo (del Amor y Otros Demonios) ∞,Kali Uchis,2020-12-04,160191,88,0.653,0.112,0.524,0.0,0.203,-9.016,0.0502,83.97,4,0.553,False,160.191
+49,50,Whoopty,Whoopty,CJ,2020-08-20,123262,81,0.719,0.2,0.648,0.0,0.127,-7.6,0.125,140.201,4,0.66,True,123.262
+50,51,"Lemonade (feat. Gunna, Don Toliver & NAV)",B4 The Storm,Internet Money,2020-08-28,195428,82,0.8,0.25,0.658,0.0,0.111,-6.142,0.079,140.042,4,0.462,True,195.428
+51,52,Good Days,Good Days,SZA,2020-12-25,279204,87,0.436,0.499,0.655,8.1e-06,0.688,-8.37,0.0583,121.002,4,0.412,True,279.204
+52,53,Starting Over,Starting Over,Chris Stapleton,2020-08-27,240413,69,0.638,0.452,0.538,0.000415,0.0695,-8.445,0.0315,89.124,4,0.318,False,240.413
+53,54,Body,Good News,Megan Thee Stallion,2020-11-20,171067,79,0.914,0.0166,0.732,0.0,0.107,-6.1,0.241,94.066,4,0.469,True,171.067
+54,55,willow,evermore,Taylor Swift,2020-12-11,214706,83,0.392,0.833,0.574,0.00179,0.145,-9.195,0.17,81.112,4,0.529,False,214.706
+55,56,Bang!,Bang!,AJR,2020-02-12,170858,60,0.74,0.0183,0.517,0.0,0.0558,-6.233,0.0506,139.917,4,0.698,False,170.858
+56,57,Better Together,What You See Is What You Get,Luke Combs,2019-11-08,219573,78,0.552,0.827,0.225,0.0,0.111,-11.501,0.0477,138.002,4,0.67,False,219.573
+57,58,You're Mines Still,Love Scars: The 5 Stages Of Emotions (Deluxe),Yung Bleu,2020-10-16,221424,64,0.572,0.363,0.467,0.0,0.158,-7.652,0.323,81.85,1,0.468,True,221.424
+58,59,EVERY CHANCE I GET (feat. Lil Baby & Lil Durk),KHALED KHALED,DJ Khaled,2021-04-30,236524,81,0.477,0.000866,0.727,0.0,0.108,-4.053,0.286,150.062,4,0.227,True,236.524
+59,60,Essence (feat. Tems),Made In Lagos,WizKid,2020-10-29,248040,80,0.849,0.0266,0.707,8.58e-06,0.618,-6.002,0.113,104.027,4,0.602,False,248.04
+60,61,Chasing After You (with Maren Morris),Chasing After You (with Maren Morris),Ryan Hurd,2021-02-12,207973,77,0.596,0.723,0.679,0.0,0.116,-6.395,0.0394,131.912,4,0.479,False,207.973
+61,62,The Good Ones,Goldmine,Gabby Barrett,2020-06-19,215140,77,0.519,0.18,0.552,0.0,0.149,-5.023,0.0259,89.957,4,0.331,False,215.14
+62,63,Leave Before You Love Me (with Jonas Brothers),Leave Before You Love Me,Marshmello,2021-05-21,154983,89,0.721,0.00226,0.738,4.41e-06,0.118,-4.77,0.0403,119.976,4,0.637,False,154.983
+63,64,Glad You Exist,Glad You Exist,Dan + Shay,2021-02-05,144533,75,0.748,0.235,0.551,0.0,0.119,-6.12,0.0349,103.953,4,0.66,False,144.533
+64,65,Lonely (with benny blanco),Lonely (with benny blanco),Justin Bieber,2020-10-16,149297,82,0.631,0.864,0.239,0.0,0.116,-7.071,0.0398,79.859,4,0.0927,True,149.297
+65,66,Beggin',Chosen,Måneskin,2017-12-08,211560,95,0.714,0.127,0.8,0.0,0.359,-4.808,0.0504,134.002,4,0.589,False,211.56
+66,67,Streets,Hot Pink,Doja Cat,2019-11-07,226986,88,0.749,0.21,0.463,0.0382,0.338,-8.433,0.0842,90.035,4,0.189,True,226.986
+67,68,What's Next,Scary Hours 2,Drake,2021-03-05,178153,62,0.777,0.0125,0.58,0.0,0.161,-6.928,0.0525,129.918,4,0.0636,False,178.153
+68,69,Famous Friends,Famous Friends,Chris Young,2020-11-20,165569,73,0.533,0.0553,0.855,0.0,0.335,-2.901,0.0356,102.017,4,0.64,False,165.569
+69,70,Lil Bit,Lil Bit,Nelly,2020-10-23,195962,77,0.707,0.0255,0.689,0.0,0.383,-7.097,0.0387,119.987,4,0.41,True,195.962
+70,71,Thot Shit,Thot Shit,Megan Thee Stallion,2021-06-11,184634,82,0.95,0.0133,0.693,0.0,0.173,-3.424,0.0898,130.02,4,0.891,True,184.634
+71,72,late at night,late at night,Roddy Ricch,2021-06-04,174682,82,0.643,0.343,0.403,0.0,0.138,-11.254,0.41,98.54,4,0.111,True,174.682
+72,73,Kings & Queens,Heaven & Hell,Ava Max,2020-09-18,162398,85,0.637,0.00786,0.69,0.0,0.124,-4.057,0.0405,129.857,4,0.457,False,162.398
+73,74,Anyone,Anyone,Justin Bieber,2021-01-01,190779,82,0.686,0.181,0.538,3.13e-06,0.113,-8.026,0.0345,115.884,4,0.584,False,190.779
+74,75,Track Star,Track Star,Mooski,2021-02-09,199706,71,0.641,0.381,0.598,0.0,0.0921,-5.7,0.324,131.459,5,0.285,True,199.706
+75,76,Time Today,A Gangsta’s Pain,Moneybagg Yo,2021-04-23,136899,76,0.912,0.0458,0.608,0.0,0.248,-7.686,0.397,136.994,4,0.327,True,136.899
+76,77,Cry Baby (feat. DaBaby),Good News,Megan Thee Stallion,2020-11-20,137983,76,0.957,0.00402,0.437,0.0,0.219,-7.882,0.359,130.058,4,0.616,True,137.983
+77,78,All I Want for Christmas Is You,Merry Christmas,Mariah Carey,1994-11-01,241106,99,0.336,0.164,0.627,0.0,0.0708,-7.463,0.0384,150.273,4,0.35,False,241.106
+78,79,No More Parties,No More Parties,Coi Leray,2021-01-22,140920,64,0.847,0.232,0.405,5.37e-06,0.0944,-10.901,0.584,156.999,4,0.588,True,140.92
+79,80,What’s Your Country Song,Country Again (Side A),Thomas Rhett,2021-03-05,171333,23,0.359,0.000602,0.706,0.0,0.285,-6.151,0.0309,174.079,4,0.479,False,171.333
+80,81,One Too Many,One Too Many,Keith Urban,2020-09-16,203893,72,0.697,0.247,0.535,0.0,0.569,-6.504,0.068,82.959,4,0.594,False,203.893
+81,82,Arcade,Arcade,Duncan Laurence,2019-03-07,183624,85,0.45,0.818,0.329,0.00109,0.135,-12.603,0.0441,71.884,3,0.266,False,183.624
+82,83,Yonaguni,Yonaguni,Bad Bunny,2021-06-04,206710,95,0.644,0.276,0.648,0.0,0.135,-4.601,0.118,179.951,4,0.44,True,206.71
+83,84,GOOD TIME,GOOD TIME - EP,Niko Moon,2020-02-14,214720,31,0.802,0.0874,0.59,0.0,0.275,-7.189,0.0493,138.084,4,0.687,False,214.72
+84,85,If I Didn't Love You,If I Didn't Love You,Jason Aldean,2021-07-23,212030,77,0.456,0.176,0.679,0.0,0.103,-4.802,0.0324,184.075,4,0.483,False,212.03
+85,86,Knife Talk (with 21 Savage ft. Project Pat),Certified Lover Boy,Drake,2021-09-03,242965,91,0.849,0.0635,0.424,0.0,0.0834,-9.579,0.324,145.887,4,0.153,True,242.965
+86,87,pov,Positions,Ariana Grande,2020-10-30,201882,82,0.487,0.36,0.534,0.0,0.1,-5.664,0.0555,131.798,4,0.173,False,201.882
+87,88,Just the Way,Just the Way,Parmalee,2019-12-13,193880,72,0.544,0.107,0.829,0.0,0.317,-2.84,0.0404,90.048,4,0.815,False,193.88
+88,89,Take My Breath,Take My Breath,The Weeknd,2021-08-06,220196,87,0.748,0.0107,0.74,2.18e-05,0.101,-6.01,0.0484,121.004,4,0.518,False,220.196
+89,90,We're Good,Future Nostalgia (The Moonlight Edition),Dua Lipa,2021-02-11,165506,83,0.722,0.0319,0.588,0.0,0.183,-5.932,0.0544,134.01,4,0.59,False,165.506
+90,91,Hell Of A View,Hell Of A View,Eric Church,2020-10-02,175280,69,0.689,0.119,0.582,0.00464,0.101,-6.778,0.0236,99.021,4,0.883,False,175.28
+91,92,Rockin' Around The Christmas Tree,Merry Christmas From Brenda Lee,Brenda Lee,1964-10-19,126266,96,0.589,0.614,0.472,0.0,0.505,-8.749,0.0502,67.196,4,0.898,False,126.266
+92,93,Put Your Records On,Put Your Records On,Ritt Momney,2020-04-24,210463,82,0.399,0.0563,0.491,0.00089,0.11,-10.778,0.0538,91.066,4,0.151,False,210.463
+93,94,Happier Than Ever,Happier Than Ever,Billie Eilish,2021-07-30,298899,95,0.332,0.767,0.225,0.00349,0.128,-8.697,0.0348,81.055,3,0.297,True,298.899
+94,95,Single Saturday Night,Single Saturday Night,Cole Swindell,2020-05-22,187683,73,0.623,0.118,0.79,0.0,0.226,-5.07,0.0473,81.949,4,0.694,False,187.683
+95,96,Things A Man Oughta Know,Sayin' What I'm Thinkin',Lainey Wilson,2021-02-19,203373,73,0.659,0.513,0.683,4.93e-06,0.133,-5.623,0.0312,139.931,4,0.397,False,203.373
+96,97,Throat Baby (Go Baby),Throat Baby (Go Baby),BRS Kash,2020-07-24,218181,60,0.9,0.0135,0.521,0.0,0.0951,-7.286,0.147,132.007,4,0.213,True,218.181
+97,98,Tombstone,SoulFly,Rod Wave,2021-03-26,160078,74,0.55,0.597,0.637,0.0,0.129,-5.212,0.163,84.448,4,0.535,True,160.078
+98,99,Drinkin' Beer. Talkin' God. Amen. (feat. Florida Georgia Line),Drinkin' Beer. Talkin' God. Amen. (feat. Florida Georgia Line),Chase Rice,2020-11-30,160839,68,0.627,0.185,0.678,0.0,0.374,-4.691,0.0294,100.032,4,0.724,False,160.839
+99,100,Todo De Ti,Todo De Ti,Rauw Alejandro,2021-05-20,199604,91,0.78,0.31,0.718,0.000163,0.0932,-3.605,0.0506,127.949,4,0.342,True,199.604

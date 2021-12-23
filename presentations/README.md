@@ -1,22 +1,8 @@
 ## Presentations for COMM313 Group Project
 
-* This folder should contain the subfolders and files for your project presentations.
+This folder contains the presentation notebook file for one of the two presentations we did this semester on our project (for the second presentation, we did not use a separate notebook).
 
-### Initial Presentation
+- 11-10-COMM318-Prelim-Presentation.ipynb outlines our research question & hypotheses, our data and collection methods, and some planned analyses.
+- The img subfolder contains image files used in this presentation. 
 
-* The presentation should have 3-5 slides that cover:
-  1. What is your research question and hypothesis?
-  2. What data are you using, how did you collect it and what are its dimensions?
-  3. What are your planned analyses and/or any initial findings.
-
-### Final Presentation
-
-* The presentation should have 8-10 slides that cover:
-  1. What is your research question and hypothesis?
-  2. What data did you use, how did you acquire and clean it and what are its dimensions?
-  3. What analyses did you carry out?
-  4. What are your key findings so far?
-  5. Next steps before final submission.
-
-
-* Update this README file to describe the presentations.
+We hope this folder gives you a picture into our thought process during our project development!
