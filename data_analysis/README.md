@@ -10,9 +10,9 @@ The notebooks in this folder are where we extracted our datasets through Billboa
 
 
 2) Rest of Folder 
-- **Billboard Data Analysis 2017 vs. 2020.ipynb**: Comparing 2017 and 2020 Billboard chart data with 2017 and 2020 Spotify chart data, looking at danceability, energy, and duration metrics.  
-- **Spotify Analysis 2020 (Step 1).ipynb**: Analyzing 2020 Spotify chart data (50-song dataset), looking at artist representation on the charts, mean metrics and songs which have the maximum level of various metrics, the distribution of durations and danceability levels, and explicitness. 
-- **Spotify Analysis 2017 (Step 2).ipynb**: Analyzing 2017 Spotify chart data (98-song dataset), asking questions regarding danceability, duration, explicitness, tempo, acousticness, and artist representation. 
+- **Billboard vs. Spotify Data Analysis (2017, 2020, 2021).ipynb**: Comparing 2017, 2020, and 2021 Billboard chart data with 2017, 2020, and 2021 Spotify chart data, looking at danceability, energy, and duration metrics.  
+- **Spotify Analysis 2020 (Step 1).ipynb**: Analyzing 2020 Spotify chart data (50-song dataset), looking at artist representation on the charts, mean metrics and songs which have the maximum level of various metrics, the distribution of durations and danceability levels, and explicitness. This was used more for exploratory purposes.
+- **Spotify Analysis 2017 (Step 2).ipynb**: Analyzing 2017 Spotify chart data (98-song dataset), asking questions regarding danceability, duration, explicitness, tempo, acousticness, and artist representation. This was used more for exploratory purposes. 
 - **Unique Song Analysis Spotify vs. Billboard.ipynb**: Collecting songs which only charted on either Billboard or Spotify in a particular year, running some year-based analyses on these 'unique' songs (i.e. comparing various metrics in songs which only charted on Spotify vs. only on Billboard), and creating two merged datasets for songs which only charted on 1) Spotify and 2) Billboard in 2017, 2020, and 2021. 
 - **Merged Unique Song Analysis (Spotify vs. Billboard).ipynb**: General analysis on datasets containing Billboard-unique and Spotify-unique songs, conducting t-tests to assess significance and creating boxplots, finding correlations and doing cluster analyses between and on metrics. 
 

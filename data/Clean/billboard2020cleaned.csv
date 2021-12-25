@@ -14,7 +14,7 @@
 12,13,"WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix","WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",Jack Harlow,2020-06-24,227478,81,0.904,0.0631,0.723,0.0,0.185,-5.224,0.26,145.013,4,0.835,True,227.478
 13,14,Dance Monkey,Dance Monkey,Tones And I,2019-05-10,209754,68,0.826,0.688,0.593,0.000161,0.17,-6.401,0.0976,98.083,4,0.541,False,209.754
 14,15,Savage,Suga,Megan Thee Stallion,2020-03-06,155497,76,0.843,0.0252,0.741,0.0,0.096,-5.609,0.334,168.983,4,0.68,True,155.497
-15,16,ROXANNE,ROXANNE,Arizona Zervas,2019-10-10,163636,83,0.621,0.0522,0.601,0.0,0.46,-5.616,0.148,116.735,5,0.457,True,163.636
+15,16,ROXANNE,ROXANNE,Arizona Zervas,2019-10-10,163636,84,0.621,0.0522,0.601,0.0,0.46,-5.616,0.148,116.735,5,0.457,True,163.636
 16,17,Intentions (feat. Quavo),Changes,Justin Bieber,2020-02-14,212866,79,0.806,0.3,0.546,0.0,0.102,-6.637,0.0575,147.986,4,0.874,False,212.866
 17,18,everything i wanted,everything i wanted,Billie Eilish,2019-11-13,245425,85,0.704,0.902,0.225,0.657,0.106,-14.454,0.0994,120.006,4,0.243,False,245.425
 18,19,Roses - Imanbek Remix,Roses (Imanbek Remix),SAINt JHN,2019-10-09,176840,86,0.77,0.0167,0.724,0.0107,0.353,-5.484,0.0495,121.975,4,0.898,True,176.84
@@ -36,7 +36,7 @@
 34,35,Savage Love (Laxed - Siren Beat),Savage Love (Laxed - Siren Beat),Jawsh 685,2020-06-11,171374,83,0.767,0.234,0.481,0.0,0.269,-8.52,0.0803,150.076,4,0.761,True,171.374
 35,36,No Guidance (feat. Drake),Indigo,Chris Brown,2019-06-28,260640,82,0.696,0.123,0.454,0.0,0.155,-6.756,0.153,92.928,4,0.136,True,260.64
 36,37,My Oh My (feat. DaBaby),Romance,Camila Cabello,2019-12-06,170746,80,0.724,0.018,0.491,1.29e-05,0.0887,-6.024,0.0296,105.046,4,0.383,False,170.746
-37,38,Dynamite,Dynamite (DayTime Version),BTS,2020-08-28,199053,76,0.746,0.0112,0.765,0.0,0.0936,-4.41,0.0993,114.044,4,0.737,False,199.053
+37,38,Dynamite,Dynamite (DayTime Version),BTS,2020-08-28,199053,75,0.746,0.0112,0.765,0.0,0.0936,-4.41,0.0993,114.044,4,0.737,False,199.053
 38,39,Go Crazy,Slime & B,Chris Brown,2020-05-08,176960,82,0.755,0.316,0.578,0.0,0.25,-8.932,0.145,94.148,4,0.581,True,176.96
 39,40,High Fashion (feat. Mustard),Please Excuse Me for Being Antisocial,Roddy Ricch,2019-12-06,220486,79,0.831,0.269,0.499,0.0,0.3,-8.442,0.114,97.956,4,0.511,True,220.486
 40,41,Laugh Now Cry Later (feat. Lil Durk),Laugh Now Cry Later (feat. Lil Durk),Drake,2020-08-14,261492,85,0.761,0.244,0.518,3.47e-05,0.107,-8.871,0.134,133.976,4,0.522,True,261.492
@@ -44,7 +44,7 @@
 42,43,death bed (coffee for your head),death bed (coffee for your head),Powfu,2020-02-08,173333,87,0.726,0.731,0.431,0.0,0.696,-8.765,0.135,144.026,4,0.348,False,173.333
 43,44,Señorita,Señorita,Shawn Mendes,2019-06-21,190960,84,0.759,0.037,0.54,0.0,0.0945,-6.039,0.0287,116.947,4,0.75,False,190.96
 44,45,HIGHEST IN THE ROOM,HIGHEST IN THE ROOM,Travis Scott,2019-10-04,175720,86,0.598,0.0546,0.427,5.83e-06,0.21,-8.764,0.0317,76.469,4,0.0605,True,175.72
-45,46,bad guy,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,2019-03-29,194087,87,0.701,0.328,0.425,0.13,0.1,-10.965,0.375,135.128,4,0.562,False,194.087
+45,46,bad guy,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,2019-03-29,194087,88,0.701,0.328,0.425,0.13,0.1,-10.965,0.375,135.128,4,0.562,False,194.087
 46,47,Mood (feat. iann dior),Mood (feat. iann dior),24kGoldn,2020-07-24,140525,23,0.7,0.221,0.722,0.0,0.272,-3.558,0.0369,90.989,4,0.756,True,140.525
 47,48,Rain On Me (with Ariana Grande),Rain On Me (with Ariana Grande),Lady Gaga,2020-05-22,182200,80,0.672,0.021,0.855,0.0,0.323,-3.764,0.0397,123.056,4,0.646,False,182.2
 48,49,For The Night (feat. Lil Baby & DaBaby),Shoot For The Stars Aim For The Moon,Pop Smoke,2020-07-03,190476,86,0.823,0.114,0.586,0.0,0.193,-6.606,0.2,125.971,4,0.347,True,190.476
@@ -61,7 +61,7 @@
 59,60,Got What I Got,9,Jason Aldean,2019-11-22,178146,74,0.512,0.621,0.58,1.72e-05,0.513,-6.658,0.029,159.847,3,0.303,False,178.146
 60,61,Sunday Best,Where the Light Is,Surfaces,2019-01-06,158571,81,0.878,0.183,0.525,0.0,0.0714,-6.832,0.0578,112.022,4,0.694,False,158.571
 61,62,Godzilla (feat. Juice WRLD),Music To Be Murdered By,Eminem,2020-01-17,210800,87,0.808,0.145,0.745,0.0,0.292,-5.26,0.342,165.995,4,0.829,True,210.8
-62,63,Bandit (with YoungBoy Never Broke Again),Bandit (with YoungBoy Never Broke Again),Juice WRLD,2019-10-04,189322,83,0.474,0.0687,0.631,0.0,0.132,-5.884,0.343,180.051,4,0.425,True,189.322
+62,63,Bandit (with YoungBoy Never Broke Again),Bandit (with YoungBoy Never Broke Again),Juice WRLD,2019-10-04,189322,84,0.474,0.0687,0.631,0.0,0.132,-5.884,0.343,180.051,4,0.425,True,189.322
 63,64,Party Girl,Party Girl,StaySolidRocky,2020-04-21,147800,77,0.728,0.749,0.431,0.0,0.0996,-9.966,0.0622,130.022,4,0.629,False,147.8
 64,65,Die From A Broken Heart,Die From A Broken Heart,Maddie & Tae,2018-10-19,188290,68,0.607,0.363,0.514,0.0,0.258,-6.631,0.0323,75.978,4,0.414,False,188.29
 65,66,POPSTAR (feat. Drake),POPSTAR (feat. Drake),DJ Khaled,2020-07-17,200221,80,0.8,0.057,0.56,0.0,0.134,-4.818,0.261,163.071,4,0.45,True,200.221
@@ -77,7 +77,7 @@
 75,76,The Bigger Picture,The Bigger Picture,Lil Baby,2020-06-12,252728,73,0.59,0.0127,0.618,0.0,0.244,-5.756,0.334,96.459,3,0.153,True,252.728
 76,77,Only Human,Happiness Begins,Jonas Brothers,2019-06-07,183000,75,0.795,0.108,0.496,0.0,0.0645,-5.883,0.0722,94.01,4,0.874,False,183.0
 77,78,The Woo (feat. 50 Cent & Roddy Ricch),Shoot For The Stars Aim For The Moon,Pop Smoke,2020-07-03,201600,81,0.49,0.0221,0.618,3.77e-06,0.259,-5.655,0.104,99.7,4,0.286,True,201.6
-78,79,Sum 2 Prove,Sum 2 Prove,Lil Baby,2020-01-10,205760,74,0.823,0.0174,0.552,0.0,0.122,-7.57,0.324,124.038,4,0.418,True,205.76
+78,79,Sum 2 Prove,Sum 2 Prove,Lil Baby,2020-01-10,205760,75,0.823,0.0174,0.552,0.0,0.122,-7.57,0.324,124.038,4,0.418,True,205.76
 79,80,Stuck with U (with Justin Bieber),Stuck with U,Ariana Grande,2020-05-08,228482,87,0.597,0.223,0.45,0.0,0.382,-6.658,0.0418,178.765,3,0.537,False,228.482
 80,81,Mood Swings (feat. Lil Tjay),Shoot For The Stars Aim For The Moon,Pop Smoke,2020-07-03,213333,84,0.48,0.487,0.602,0.0,0.0848,-6.335,0.368,179.798,4,0.269,True,213.333
 81,82,You should be sad,Manic,Halsey,2020-01-17,205473,78,0.591,0.143,0.585,0.0,0.109,-6.35,0.0277,110.94,4,0.324,True,205.473
@@ -90,7 +90,7 @@
 88,89,Homesick,Experiment Extended,Kane Brown,2019-11-01,205400,70,0.701,0.46,0.5,0.0,0.234,-8.82,0.0303,97.028,4,0.409,False,205.4
 89,90,Rags2Riches (feat. ATR Son Son),Pray 4 Love,Rod Wave,2020-04-03,167183,24,0.904,0.294,0.252,0.0,0.104,-17.54,0.11,117.994,4,0.227,True,167.183
 90,91,Bluebird,Wildcard,Miranda Lambert,2019-11-01,209760,73,0.661,0.038,0.633,2.75e-06,0.124,-5.986,0.0348,81.984,4,0.613,False,209.76
-91,92,Wishing Well,Legends Never Die,Juice WRLD,2020-07-10,194621,85,0.65,0.00336,0.613,0.0,0.267,-6.13,0.128,149.972,4,0.0804,True,194.621
+91,92,Wishing Well,Legends Never Die,Juice WRLD,2020-07-10,194621,86,0.65,0.00336,0.613,0.0,0.267,-6.13,0.128,149.972,4,0.0804,True,194.621
 92,93,Does To Me (feat. Eric Church),What You See Is What You Get,Luke Combs,2019-11-08,223320,70,0.616,0.311,0.849,0.0,0.311,-4.897,0.0373,113.065,4,0.638,False,223.32
 93,94,P*$$Y Fairy (OTW),P*$$Y Fairy (OTW),Jhené Aiko,2020-01-17,181860,74,0.572,0.536,0.519,0.0,0.102,-7.092,0.212,128.331,4,0.35,True,181.86
 94,95,ily (i love you baby) (feat. Emilee),ily (i love you baby) (feat. Emilee),Surf Mesa,2019-11-26,176546,82,0.674,0.0686,0.774,0.00188,0.393,-7.567,0.0892,112.05,4,0.33,False,176.546
